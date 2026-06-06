@@ -114,7 +114,6 @@ int main()
 
     if(overdueBook != books + 3)
     {
-        cout << "\nOverdue Book Found: "
              << overdueBook->title << endl;
     }
     cout << "\n\n===== CAMPUS PDF REPORT =====\n";
